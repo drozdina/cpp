@@ -1,5 +1,5 @@
-#include "Addition.hpp"
-#include "Multiply.hpp"
+#include "Addition.h"
+#include "Multiply.h"
 
 #include <stdio.h>
 
